@@ -148,5 +148,5 @@ if __name__ == "_main_":
 
       print("Usage: python autolysis.py <file_path>")
       sys.exit(1)
-      main_process(sys.argv[1])
+    main_process(sys.argv[1])
     
